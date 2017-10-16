@@ -30,5 +30,9 @@ SOCIAL = (('Twitter', 'https://twitter.com/code_en_seine'),)
 
 DEFAULT_PAGINATION = 10
 
+THEME = 'theme'
+THEME_STATIC_DIR = 'theme'
+STATIC_PATHS = ['images']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
