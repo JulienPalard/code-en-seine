@@ -3,7 +3,7 @@ Date: 2017-10-16 11:46
 Modified: 2017-10-16 11:46
 Category: Ateliers
 Slug: ateliers-code-en-seine
-Summary: Ateliers Code-en-Seine
+Summary: Les ateliers Code-en-Seine, un moment pour apprendre ou s'améliorer en Python.
 
 L'objectif d'un atelier Code-en-Seine est de vous accompagner dans
 l'apprentissage de la programmation, en apprenant Python dans un
